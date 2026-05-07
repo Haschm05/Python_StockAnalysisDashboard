@@ -120,6 +120,7 @@ main.py            # Main application file
 * Requires an internet connection to fetch stock data
 * Data is sourced from Yahoo Finance via `yfinance`
 * Forecasting uses a simple linear regression model (not financial advice)
+* Last Updated: Dec 4, 2025
 
 ---
 
@@ -134,10 +135,12 @@ main.py            # Main application file
 
 ---
 
-## Author
+## Author(s)
 
-**Hayden Schmidt**
-Last Updated: Dec 4, 2025
+ Github: [Haschm05](https://github.com/Haschm05/Haschm05)
+ 
+ Email: [Hayden Schmidt](Haschm05@wsc.edu)
+
 
 ---
 
